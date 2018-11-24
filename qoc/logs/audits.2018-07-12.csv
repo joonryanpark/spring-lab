@@ -1,0 +1,3 @@
+Timestamp,ResultStatusCode,Authenticated,LoginUUID,SessionUUID,IPV4ClientIp,IPV6ClientIp,HttpVerb,Method,DeviceId,DeviceString,AgentId,AgentString,OsId,OsString,ApplicationUUID,ApplicationReleaseString,ApplicationVersionCode,UserDefined
+2018-07-12T14:40:58.356-0400,200,0,,,,0:0:0:0:0:0:0:1,POST,authenticateAPI,,,,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36",,,87A98DE5-963D-4B03-9070-34B0FAA80B57,,,
+Timestamp,ResultStatusCode,Authenticated,LoginUUID,SessionUUID,IPV4ClientIp,IPV6ClientIp,HttpVerb,Method,DeviceId,DeviceString,AgentId,AgentString,OsId,OsString,ApplicationUUID,ApplicationReleaseString,ApplicationVersionCode,UserDefined

@@ -1,0 +1,3 @@
+Timestamp,ResultStatusCode,Authenticated,LoginUUID,SessionUUID,IPV4ClientIp,IPV6ClientIp,HttpVerb,Method,DeviceId,DeviceString,AgentId,AgentString,OsId,OsString,ApplicationUUID,ApplicationReleaseString,ApplicationVersionCode,UserDefined
+2018-05-11T16:04:04.691-0400,401,0,,F8ED4F69-EC52-E811-A992-F325D2AED187,,0:0:0:0:0:0:0:1,GET,getMessages,,,,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36",,,B8FAA490-199F-4DA3-AFEE-CB6FEBE9A96C,,,
+Timestamp,ResultStatusCode,Authenticated,LoginUUID,SessionUUID,IPV4ClientIp,IPV6ClientIp,HttpVerb,Method,DeviceId,DeviceString,AgentId,AgentString,OsId,OsString,ApplicationUUID,ApplicationReleaseString,ApplicationVersionCode,UserDefined

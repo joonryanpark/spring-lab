@@ -1,0 +1,10 @@
+Timestamp,ResultStatusCode,Authenticated,LoginUUID,SessionUUID,IPV4ClientIp,IPV6ClientIp,HttpVerb,Method,DeviceId,DeviceString,AgentId,AgentString,OsId,OsString,ApplicationUUID,ApplicationReleaseString,ApplicationVersionCode,UserDefined
+2017-11-14T16:42:50.066-0500,200,0,,,127.0.0.1,,POST,authenticateAPI,,,,ku-teleroo-notification-service,,,B8FAA490-199F-4DA3-AFEE-CB6FEBE9A96C,,0.0.1,
+2017-11-14T16:43:01.589-0500,200,0,,,127.0.0.1,,POST,login,,,,ku-teleroo-notification-service,,,B8FAA490-199F-4DA3-AFEE-CB6FEBE9A96C,,0.0.1,
+2017-11-14T21:43:25.368+0000,201,1,3C824FA1-3054-4782-9F04-4FC5996C5D74,DB1156CB-84C9-E711-810B-0A719F038A93,127.0.0.1,,PUT,updateProfiles,,,,ku-teleroo-notification-service,,,B8FAA490-199F-4DA3-AFEE-CB6FEBE9A96C,,0.0.1,
+2017-11-14T21:43:25.368+0000,201,1,3C824FA1-3054-4782-9F04-4FC5996C5D74,DB1156CB-84C9-E711-810B-0A719F038A93,127.0.0.1,,PUT,updateProfiles,,,,ku-teleroo-notification-service,,,B8FAA490-199F-4DA3-AFEE-CB6FEBE9A96C,,0.0.1,
+2017-11-14T21:43:56.443+0000,201,1,3C824FA1-3054-4782-9F04-4FC5996C5D74,DB1156CB-84C9-E711-810B-0A719F038A93,127.0.0.1,,PUT,updateProfiles,,,,ku-teleroo-notification-service,,,B8FAA490-199F-4DA3-AFEE-CB6FEBE9A96C,,0.0.1,
+Timestamp,ResultStatusCode,Authenticated,LoginUUID,SessionUUID,IPV4ClientIp,IPV6ClientIp,HttpVerb,Method,DeviceId,DeviceString,AgentId,AgentString,OsId,OsString,ApplicationUUID,ApplicationReleaseString,ApplicationVersionCode,UserDefined
+2017-11-14T16:47:17.641-0500,200,0,,,127.0.0.1,,POST,authenticateAPI,,,,ku-teleroo-notification-service,,,B8FAA490-199F-4DA3-AFEE-CB6FEBE9A96C,,0.0.1,
+2017-11-14T16:47:18.783-0500,200,0,,,127.0.0.1,,POST,login,,,,ku-teleroo-notification-service,,,B8FAA490-199F-4DA3-AFEE-CB6FEBE9A96C,,0.0.1,
+Timestamp,ResultStatusCode,Authenticated,LoginUUID,SessionUUID,IPV4ClientIp,IPV6ClientIp,HttpVerb,Method,DeviceId,DeviceString,AgentId,AgentString,OsId,OsString,ApplicationUUID,ApplicationReleaseString,ApplicationVersionCode,UserDefined

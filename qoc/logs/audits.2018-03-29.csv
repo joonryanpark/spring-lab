@@ -1,0 +1,10 @@
+Timestamp,ResultStatusCode,Authenticated,LoginUUID,SessionUUID,IPV4ClientIp,IPV6ClientIp,HttpVerb,Method,DeviceId,DeviceString,AgentId,AgentString,OsId,OsString,ApplicationUUID,ApplicationReleaseString,ApplicationVersionCode,UserDefined
+2018-03-29T15:38:01.870-0400,200,0,,,127.0.0.1,,POST,authenticateAPI,,,,Apache-HttpClient/4.3.5 (java 1.5),,,0E9B1FF3-A1F5-4754-AEFA-E213AEC740B4,,1.0.3,
+2018-03-29T15:38:03.126-0400,200,0,,,127.0.0.1,,POST,createLogin,,,,Apache-HttpClient/4.3.5 (java 1.5),,,0E9B1FF3-A1F5-4754-AEFA-E213AEC740B4,,1.0.3,
+2018-03-29T15:44:49.353-0400,200,0,,,127.0.0.1,,POST,authenticateAPI,,,,Apache-HttpClient/4.3.5 (java 1.5),,,0E9B1FF3-A1F5-4754-AEFA-E213AEC740B4,,1.0.3,
+2018-03-29T15:44:50.202-0400,200,0,,,127.0.0.1,,POST,createLogin,,,,Apache-HttpClient/4.3.5 (java 1.5),,,0E9B1FF3-A1F5-4754-AEFA-E213AEC740B4,,1.0.3,
+2018-03-29T15:44:56.053-0400,200,1,0D882863-FD44-4F14-9FE5-7587D565E19A,F9AE9BDD-8533-E811-A992-F325D2AED187,127.0.0.1,,POST,createOrganizationLinks,,,,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36",,,0E9B1FF3-A1F5-4754-AEFA-E213AEC740B4,,1.0.3,
+2018-03-29T15:47:19.519-0400,200,0,,,127.0.0.1,,POST,authenticateAPI,,,,Apache-HttpClient/4.3.5 (java 1.5),,,0E9B1FF3-A1F5-4754-AEFA-E213AEC740B4,,1.0.3,
+2018-03-29T15:47:20.371-0400,200,0,,,127.0.0.1,,POST,createLogin,,,,Apache-HttpClient/4.3.5 (java 1.5),,,0E9B1FF3-A1F5-4754-AEFA-E213AEC740B4,,1.0.3,
+2018-03-29T15:47:26.081-0400,200,1,0D882863-FD44-4F14-9FE5-7587D565E19A,F9AE9BDD-8533-E811-A992-F325D2AED187,127.0.0.1,,POST,createOrganizationLinks,,,,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36",,,0E9B1FF3-A1F5-4754-AEFA-E213AEC740B4,,1.0.3,
+Timestamp,ResultStatusCode,Authenticated,LoginUUID,SessionUUID,IPV4ClientIp,IPV6ClientIp,HttpVerb,Method,DeviceId,DeviceString,AgentId,AgentString,OsId,OsString,ApplicationUUID,ApplicationReleaseString,ApplicationVersionCode,UserDefined

@@ -1,0 +1,4 @@
+Timestamp,ResultStatusCode,Authenticated,LoginUUID,SessionUUID,IPV4ClientIp,IPV6ClientIp,HttpVerb,Method,DeviceId,DeviceString,AgentId,AgentString,OsId,OsString,ApplicationUUID,ApplicationReleaseString,ApplicationVersionCode,UserDefined
+2018-07-06T11:20:45.109-0400,500,0,,,,0:0:0:0:0:0:0:1,POST,authenticateAPI,,,,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36",,,A9D45738-1AA1-42FB-AB4B-1493A319AC28,,,
+2018-07-06T11:38:12.087-0400,200,0,,,,0:0:0:0:0:0:0:1,POST,authenticateAPI,,,,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36",,,A9D45738-1AA1-42FB-AB4B-1493A319AC28,,,
+Timestamp,ResultStatusCode,Authenticated,LoginUUID,SessionUUID,IPV4ClientIp,IPV6ClientIp,HttpVerb,Method,DeviceId,DeviceString,AgentId,AgentString,OsId,OsString,ApplicationUUID,ApplicationReleaseString,ApplicationVersionCode,UserDefined
